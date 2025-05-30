@@ -1,10 +1,12 @@
-<div align="center">
-  <div style="background-color: #d3d3d3; padding: 40px; font-family: 'Times New Roman', serif; color: black; border-radius: 10px;">
-    <h1 style="font-size: 48px; margin-bottom: 10px; animation: fadeIn 2s ease-in-out;">Hi, I’m Lefa.</h1>
+<div>
+  <div style="background-color: #d3d3d3; display: flex; padding: 40px; color: black; border-radius: 10px;">
+    <h1 style="font-size: 48px; margin-bottom: 10px; animation: fadeIn 2s ease-in-out; font-family: Times New Roman;">Lefa here.</h1>
     <p style="font-size: 18px; line-height: 1.8; max-width: 800px; margin: 0 auto;">
-      A computer technician with a creative edge and a knack for digital problem-solving. From firewalls to Photoshop, cloud servers to HTML snippets — I bring a full-stack mindset to real-world tech. I don't just fix computers. I debug life, automate chaos, and build clean digital experiences.
+      Somewhere between logic and creativity, I carve out tools, scripts, and ideas that live on beyond the screen.
+Not just coding to code — I build things that move things.
+If you're curious, you'll feel right at home here.
     </p>
-    <br>
+    <hr>
     <p style="font-size: 16px;">Find me on:</p>
     <p>
       <a href="https://twitter.com/thisislefa" style="color: black; text-decoration: none; font-weight: bold;" target="_blank">Twitter</a> |
