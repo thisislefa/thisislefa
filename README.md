@@ -7,10 +7,10 @@ Not just coding to code — I build things that move things.
 If you're curious, you'll feel right at home here.
     </p>
     <hr>
-    <p style="font-size: 16px;">Find me on:</p>
+    <p style="font-size: 16px;">Let's connect:</p>
     <p>
-      <a href="https://x.com/thisislefa" style="color: black; text-decoration: none; font-weight: bold;" target="_blank">X</a> |
-      <a href="https://linkedin.com/in/thisislefa" style="color: black; text-decoration: none; font-weight: bold;" target="_blank">LinkedIn</a>
+      <a href="https://x.com/lefajmofokeng" style="color: black; text-decoration: none; font-weight: bold;" target="_blank">X</a> |
+      <a href="https://linkedin.com/in/lefajmofokeng" style="color: black; text-decoration: none; font-weight: bold;" target="_blank">LinkedIn</a>
     </p>
   </div>
 </div>
