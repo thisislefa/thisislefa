@@ -1,81 +1,53 @@
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Lefa+Mofokeng;Front+End+Developer;UI%2FUX+Implementation;React+%26+TypeScript+Specialist" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020617,1e293b,0f172a&height=180&section=header&text=Lefa%20Mofokeng&fontSize=60&fontColor=e2e8f0&fontAlign=50&desc=Frontend%20Architecture%20%2F%2F%20React%20Specialist&descSize=20&descAlign=50&animation=fadeIn" width="100%" style="border-radius: 10px;" alt="Header"/>
+</div>
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    
+    <td width="60%" valign="top" style="padding-right: 20px;">
+      
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&vCenter=false&width=500&lines=%3E+Initializing+Development+Environment...;%3E+Loading+React.js+Modules...;%3E+Status%3A+Open+to+Collaborations." alt="Typing SVG" />
+      </a>
+      
+      <br/><br/>
+
+      <details open>
+        <summary><b style="font-size: 16px; cursor: pointer;">:: CORE_STACK</b> (Click to collapse)</summary>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react,ts,nextjs,redux,tailwind,sass,figma,git&theme=dark&perline=8" width="100%" alt="Tech Stack"/>
+      </details>
+
+      <br/>
+
+      <p style="font-family: monospace;">
+        <a href="https://linkedin.com/in/lefajmofokeng" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/>
+        </a>
+        &nbsp;
+        <a href="https://x.com/lefajmofokeng" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/X_PROFILE-000000?style=flat&logo=x&logoColor=white" height="25" alt="X"/>
+        </a>
+      </p>
+
+    </td>
+
+    <td width="40%" valign="top">
+      
+      <a href="https://github.com/lefajmofokeng">
+        <img src="https://github-readme-stats.vercel.app/api?username=lefajmofokeng&show_icons=true&theme=react&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&icon_color=38BDF8&hide_border=true" width="100%" alt="Stats" />
+      </a>
+      
+      <a href="https://github.com/lefajmofokeng">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lefajmofokeng&layout=compact&theme=react&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&hide_border=true" width="100%" alt="Languages" />
+      </a>
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
   <br/>
-  
-  <a href="https://linkedin.com/in/lefajmofokeng">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/lefajmofokeng">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  
-</div>
-
-<br/>
-
-### // Biography
-
-> **Professional Summary:** I am a Front End Developer focused on creating scalable, performant, and interactive web applications. My expertise lies in bridging the gap between design and technical implementation.
-
-<br/>
-
-<details>
-<summary><strong>System Architecture & Tech Stack (Click to Expand)</strong></summary>
-<br/>
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,redux,html,css,git,github,figma,vscode&theme=light" alt="Tech Stack" />
-  
-  <br/><br/>
-  
-  | Core | State & Styling | Tools |
-  | :--- | :--- | :--- |
-  | React.js | Redux Toolkit | Git / GitHub |
-  | TypeScript | Tailwind CSS | Webpack / Vite |
-  | Next.js | SASS / SCSS | Figma |
-
-</div>
-</details>
-
-<br/>
-
-<div align="center">
-  <h3>// Contribution Metrics</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=lefajmofokeng&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lefajmofokeng&layout=compact&theme=graywhite&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>// Activity Stream</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<details>
-<summary><strong>Initiate Communication (Click to Expand)</strong></summary>
-<br/>
-<ul>
-    <li><b>Employment Status:</b> Open to Opportunities</li>
-    <li><b>Focus:</b> React, Modern JavaScript, Accessible UI</li>
-    <li><b>Location:</b> South Africa</li>
-    <li><b>Direct Contact:</b> <a href="https://linkedin.com/in/lefajmofokeng">View LinkedIn Profile</a></li>
-</ul>
-</details>
-
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lefajmofokeng&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
