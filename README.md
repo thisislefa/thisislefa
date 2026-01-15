@@ -16,6 +16,7 @@ I am a software developer focused on building scalable web architecture and inte
 
 ### Connect
 
+* **Mail:** [lefamjack@gmail.com](lefamjack@gmail.com)
 * **LinkedIn:** [linkedin.com/in/lefajmofokeng](https://www.linkedin.com/in/lefajmofokeng)
 * **Twitter/X:** [@lefajmofokeng](https://twitter.com/lefajmofokeng)
 * **YouTube:** [youtube.com/@lefajmofokeng](https://www.youtube.com/@lefajmofokeng)
